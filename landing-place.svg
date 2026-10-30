@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">A landing place for a sky pebble</title>
+  <desc id="desc">A speckled pebble rests in a shallow hollow among grass and small flowers beneath a starry twilight sky. A small folded paper boat rests on a winding path leading toward distant warm windows.</desc>
+  <rect width="640" height="420" fill="#202f45"/>
+  <g fill="#f6e5ac"><circle cx="87" cy="66" r="2"/><circle cx="172" cy="117" r="3"/><circle cx="290" cy="48" r="2"/><circle cx="401" cy="98" r="2"/><circle cx="548" cy="56" r="3"/></g>
+  <path d="M0 235 Q130 170 265 230 Q410 172 640 225 V420 H0Z" fill="#486c68"/>
+  <path d="M0 294 Q165 239 340 285 Q510 240 640 280 V420 H0Z" fill="#789b85"/>
+  <path d="M478 249 Q430 273 453 300 Q478 324 408 358 Q368 380 362 420 H470 Q451 383 495 358 Q550 323 507 300 Q481 278 510 253Z" fill="#c8b78e" opacity=".8"/>
+  <g fill="#31495b"><path d="M482 229 l20 -19 19 19 v24 h-39z"/><path d="M535 233 l15 -15 17 15 v20 h-32z"/></g>
+  <g fill="#f2ba66"><rect x="489" y="231" width="8" height="9"/><rect x="506" y="231" width="8" height="9"/><rect x="544" y="235" width="8" height="8"/></g>
+  <ellipse cx="256" cy="337" rx="91" ry="25" fill="#425f59" opacity=".6"/>
+  <path d="M203 333 Q199 304 224 294 Q251 282 283 296 Q307 307 308 333 Q259 348 203 333Z" fill="#718b91" stroke="#d2e3d4" stroke-width="3"/>
+  <g fill="#d9d9b6"><circle cx="226" cy="315" r="3"/><circle cx="256" cy="302" r="2"/><circle cx="286" cy="322" r="3"/></g>
+  <path d="M223 312 Q252 307 282 321" fill="none" stroke="#f2ba66" stroke-width="2"/>
+  <!-- A folded paper boat is a small trace of a visitor. -->
+  <g transform="translate(120 -20)" stroke="#526b66" stroke-width="1.5" stroke-linejoin="round"><path d="M329 348 l34 0 -6 9 h-21z" fill="#eadfbd"/><path d="M336 348 l10 -10 10 10z" fill="#f8edce"/><path d="M346 338 v10" fill="none"/></g>
+  <g stroke="#d4e6bd" stroke-width="2" fill="none"><path d="M136 357 q-3 -20 -11 -25 M144 358 q5 -23 14 -29 M330 358 q-2 -20 -9 -26 M338 358 q6 -19 14 -25"/></g>
+  <g fill="#f6e5ac"><circle cx="125" cy="330" r="4"/><circle cx="158" cy="327" r="4"/><circle cx="321" cy="330" r="4"/><circle cx="352" cy="331" r="4"/></g>
+  <text x="320" y="394" text-anchor="middle" fill="#e5efdc" font-family="sans-serif" font-size="18">A soft place to arrive.</text>
+</svg>
